@@ -1,6 +1,7 @@
 # WWW
 # Quadratic equation.
 
+
 public class Main {
 
     public static void main(String[] args) {
